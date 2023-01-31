@@ -1,0 +1,14 @@
+(SSDML version=1.0)
+SSDML(
+    Library(
+        Shelf1(
+            Row1(
+                Book1(name=Harry Potter and the Philosopher's Stone;author=J.K.Rowling;numberofpages=340;code=01)
+                Book2(name=The Little Prince;author=Antoine de Saint-Exupéry;numberofpages=96;code=02)
+            )
+            Row2(
+                Book1(name=Harry Potter and the Order of the Phoenix;author=J.K.Rowling;numberofpages=768;code=03)
+            )
+        )
+    )
+)
