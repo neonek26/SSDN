@@ -1,5 +1,3 @@
-#SSDML - Symplified Structured Data Markup Language
-
 Symplified Structured Data Markup Language (SSDML) - Documentation
 
 ???? WHY WAS SSDML CREATED ????
