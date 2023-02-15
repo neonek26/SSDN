@@ -7,7 +7,7 @@ SSDML was created as an alternative to XML.
 SSDML solves the problems of both XML and JSON. 
 XML is easy to write, but it is messy and hard to read with large amounts of code. 
 JSON files are easy to read but don't write as well as XML ones. 
-SSML solves both of these problems.
+SSDML solves both of these problems.
                                  
 !!!! HOW TO USE SSDML !!!!
         ↓↓↓↓↓↓↓↓↓↓
