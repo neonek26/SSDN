@@ -1,5 +1,5 @@
-SSDMLver=1.0
-SSDML(
+SSDNver=1.1
+SSDN(
     Library(
         Shelf1(
             Row1(
@@ -12,4 +12,3 @@ SSDML(
         )
     )
 )
- 
