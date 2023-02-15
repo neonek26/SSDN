@@ -1,28 +1,28 @@
-Simple Structured Data Notation (SSDN) - Documentation
+Symplified Structured Data Markup Language (SSDML) - Documentation
 
-???? WHY WAS SSDN CREATED ????
+???? WHY WAS SSDML CREATED ????
         ↓↓↓↓↓↓↓↓↓↓                         
 
-SSDN was created as an alternative to XML. 
-SSDN solves the problems of both XML and JSON. 
+SSDML was created as an alternative to XML. 
+SSDML solves the problems of both XML and JSON. 
 XML is easy to write, but it is messy and hard to read with large amounts of code. 
 JSON files are easy to read but don't write as well as XML ones. 
-SSDN solves both of these problems.
+SSML solves both of these problems.
                                  
-!!!! HOW TO USE SSDN !!!!
+!!!! HOW TO USE SSDML !!!!
         ↓↓↓↓↓↓↓↓↓↓
 
-Start of SSDN file - SSDNver=1.0
+Start of SSDML file - SSDMLver=1.1
 
-Under the beginning of the file you write the root element of SSDN,
+Under the beginning of the file you write the root element of SSDML,
 then you start writing the structure and writing the data.
 After each tag/element you type a bracket (in which you press enter and tab, 
 depending on which editor you are writing the file in) and start writing either the next tag/element 
 and repeat or you type a bracket in which you start writing information/data/attributes.
 Each attribute must be separated by a semicolon (;).
 
-!!!!! EXAMPLE FILE IS IN THE DOWNLOAD FOLDER as SSDN Example.ssdn !!!!!
+!!!!! EXAMPLE FILE IS IN THE DOWNLOAD FOLDER as SSDML Example.ssdn !!!!!
 
-			© SSDN - Štěpán Hofmann 
+			© SSDML - Štěpán Hofmann 
 				2022-2023
 
