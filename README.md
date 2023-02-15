@@ -1,4 +1,4 @@
-Simple Structured Data Notation (SSDN) - Documentation
+Symplified Structured Data Notation (SSDN) - Documentation
 
 ???? WHY WAS SSDN CREATED ????
         ↓↓↓↓↓↓↓↓↓↓                         
