@@ -21,7 +21,7 @@ depending on which editor you are writing the file in) and start writing either 
 and repeat or you type a bracket in which you start writing information/data/attributes.
 Each attribute must be separated by a semicolon (;).
 
-!!!!! EXAMPLE FILE IS IN THE DOWNLOAD FOLDER as SSDML Example.ssdn !!!!!
+!!!!! EXAMPLE FILE IS IN THE DOWNLOAD FOLDER as SSDML Example.ssdml !!!!!
 
 			© SSDML - Štěpán Hofmann 
 				2022-2023
