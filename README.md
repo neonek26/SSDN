@@ -3,11 +3,8 @@ Symplified Structured Data Notation (SSDN) - Documentation
 ???? WHY WAS SSDN CREATED ????
         ↓↓↓↓↓↓↓↓↓↓                         
 
-SSDN was created as an alternative to XML. 
-SSDN solves the problems of both XML and JSON. 
-XML is easy to write, but it is messy and hard to read with large amounts of code. 
-JSON files are easy to read but don't write as well as XML ones. 
-SSDN solves both of these problems.
+SSDN was created as an alternative to XML, JSON, YAML or Protobuf.
+SSDN is trying to be the most easiest to both write and read.
                                  
 !!!! HOW TO USE SSDN !!!!
         ↓↓↓↓↓↓↓↓↓↓
