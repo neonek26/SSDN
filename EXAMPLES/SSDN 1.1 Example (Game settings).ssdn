@@ -4,4 +4,4 @@ SSDN(
         screen(res=1920x1080;hz=60)
         sensitivity(vertical=1.4;horizotnal=1.4)
     )
-)
+) 
