@@ -1,3 +1,3 @@
 1) Open CMD 
 2) Go to file or repository where you have downloaded SSDN Python support 
-3) Enter command "pip install ssdn_1.1-1.0-py3-none-any.whl" (download pip if dont have it)
+3) Enter command "pip install ssdn_1.1-1.0-py3-none-any.whl" (download pip if dont already have it)
