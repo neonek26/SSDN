@@ -10,7 +10,7 @@ SSDN is trying to be the most easiest to both write and read.
 Start of SSDN file - SSDNver=1.1
 
 Under the beginning of the file you write the root element of SSDN,
-then you start writing the structure and writing the data.
+then you start writing the structure and writing the data. 
 After each tag/element you type a bracket (in which you press enter and tab, 
 depending on which editor you are writing the file in) and start writing either the next tag/element 
 and repeat or you type a bracket in which you start writing information/data/attributes.
