@@ -20,5 +20,3 @@ Example files are in example folder.
 
 			© SSDN - Štěpán Hofmann 
 				2022-2023
-
- 
